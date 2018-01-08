@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "684128343510",
+    "firebase_url": "https://barbeshop-7e1ab.firebaseio.com",
+    "project_id": "barbeshop-7e1ab",
+    "storage_bucket": "barbeshop-7e1ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684128343510:android:31692b628f7fb2ac",
+        "android_client_info": {
+          "package_name": "com.example.osvaldoairon.barbeariashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684128343510-pplk2mjs5rl4huc5bucn0eitil6oe1ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.osvaldoairon.barbeariashop",
+            "certificate_hash": "facccf4eb0bd922e3aa158367d78fa70c7559b15"
+          }
+        },
+        {
+          "client_id": "684128343510-i5di8dsvu08obm03mbvmko2gmrbp4378.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUX6gqPPW_G3wzAx8R134BLkDlCjyrWgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684128343510-i5di8dsvu08obm03mbvmko2gmrbp4378.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

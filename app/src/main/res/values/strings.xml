@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BarbeariaShop</string>
+    <string name="hint_nome"> Nome Cliente</string>
+    <string name="hint_cabelo">Valor Corte de Cabelo</string>
+    <string name="hint_b"> Valor Barba </string>
+
+    <string name="text_cabecalho"> Lista de Clientes </string>
+
+    <plurals name="texto_rodape">
+        <item quantity="one"> 1 cliente</item>
+        <item quantity="other"> %d clientes </item>
+    </plurals>
+</resources>
